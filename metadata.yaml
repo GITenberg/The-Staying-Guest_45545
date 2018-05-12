@@ -1,0 +1,41 @@
+_repo: The-Staying-Guest_45545
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, W. Granville (Walter Granville)
+    aliases:
+    - Smith, Walter Granville
+    - Smith, Granville
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '46515'
+    url: http://www.gutenberg.org/2009/agents/46515
+covers:
+- cover_type: archival
+  image_path: 45545-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wells, Carolyn
+    alias: Houghton, Carolyn Wells
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '1060'
+    url: http://www.gutenberg.org/2009/agents/1060
+    wikipedia: https://en.wikipedia.org/wiki/Carolyn_Wells
+description: ''
+gutenberg_issued: '2014-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+title: The Staying Guest
+url: http://www.gutenberg.org/ebooks/45545
